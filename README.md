@@ -99,7 +99,7 @@ Em breve...
 
 <br>
 
-# **AVALIAÇÃO DO PROJETO:**
+# **Avaliação do projeto:**
 A coleta de dados ocorreu como o esperado, a aplicação conseguiu fazer a capturação das informações dentro da janela dos segundos e em tempo real. Porém, deve-se levar em consideração algumas limitações, como por exemplo, a conexão com o servidor que ocorre pelo protocolo TCP, causando assim uma certa lentidão por causa da ocorrência do Three-way Handshake, seria mais interessante se o servidor aceitasse o protocolo UDP.
 
 Apesar disso, a coleta de dados da bolsa de valores brasileira através do Winixy Collect é bastante eficiente. Conseguiu-se atingir o objetivo principal do projeto, a partir desses dados coletados será estimado modelos de predição de preços de ativos do mercado financeiro utilizando estatística para algoritmos de machine learning.
