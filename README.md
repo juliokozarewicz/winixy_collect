@@ -60,10 +60,10 @@ Mercado financeiro e de capitais, investimentos e outros.
 Coletar dados de ativos em tempo real para fazer análises de investimentos no mercado de capitais.
 
 ## **Abordagem do problema:**
-A coleta de dados ocorre através da utilização de linguagem Python para se conectar com uma plataforma de investimentos, onde essa fornece os dados em tempo real. O sistema acessa esse servidor disponibilizado pela plataforma, coleta e envia os dados para um banco.
+A coleta de dados ocorre através da utilização de linguagem Python para se conectar com uma plataforma de investimentos, onde essa fornece os dados em tempo real. O sistema acessa esse servidor disponibilizado pela plataforma, coleta e envia os dados para uma data base.
 
 ## **Processos da aplicação:**
-Essa coleta de informações ocorre separadamente, uma função salva os dados passados do ativo selecionado, faz um pré processamento e envia essas informações para uma tabela de banco de dados relacional local, o mesmo ocorre em relação ao times and trades e por último uma outra função é executada em um processo paralelo para armazenar informações do book de ofertas do ativo e atualizar um arquivo csv local. 
+Essa coleta de informações ocorre separadamente, uma função salva os dados passados do ativo selecionado, faz um pré processamento e envia essas informações para uma tabela de banco de dados relacional local, o mesmo ocorre em relação ao times and trades e por último uma outra função é executada em um processo paralelo para armazenar informações do book de ofertas do ativo e atualizar um arquivo csv local. Também, o sistema foi programado para funcionar apenas no horário definido, no caso o horário em que o mercado está aberto, e para ser desligado nos finais de semana, em sábados e domingos.
 
 
 ## **Algumas métricas:**
@@ -94,7 +94,7 @@ Mais de **15 milhões** de linhas de informações.
 
 <img src="images/email.png" width="700"> <br /> <br />
 
-## **VEJA O WINIXY FUNCIONANDO:**
+## **Winixy Collect funcionando:**
 Em breve...
 
 <br>
