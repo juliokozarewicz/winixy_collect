@@ -1,10 +1,54 @@
 <h1 align="center">
   <br>
   <img src="images/logo.png" width="400">
-  <br>
-  <br>
-  <br>
+  <br><br>
 </h1>
+
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/julioerk/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/julioerk/">
+    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
+  </a>
+  </a>
+  <a href="https://www.linkedin.com/in/julioerk/">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
+  </a>
+  <br>
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  </a>
+  <a href="https://pandas.pydata.org/">
+    <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
+  </a>
+  <a href="https://numpy.org/">
+    <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
+  </a>
+  <a href="https://www.postgresql.org/">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  </a>
+  <a href="https://www.docker.com/">
+    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+  </a>
+  <a href="https://docs.conda.io/en/latest/">
+    <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white">
+  </a>
+  <br>
+  <a href="https://www.gnu.org/distros/free-distros.html">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  </a>
+  </a>
+  <a href="https://archlinux.org/">
+    <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
+  </a>
+  <a href="https://www.redhat.com/">
+    <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white">
+  </a>
+  <a href="https://www.vim.org/">
+    <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white">
+  </a>
+</p>
 
 # **Descrição:**
 O **WINIXY COLLECT** é um sistema de coleta de dados da bolsa de valores brasileira, a Brasil, Bolsa, Balcão (B3). Sendo assim, tem como função coletar dados em tempo real e dentro de uma janela de tempo mais rápida que os segundos.
